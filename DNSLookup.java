@@ -2,7 +2,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 public class DNSLookup {
-  
+  // https://helloacm.com/the-dns-lookup-tool-in-java-inetaddress/
   public static void main(String args[]) {
     try {
       InetAddress host;
